@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kgmyshin.github.io/kgmyshin-log/categories/</loc>
+    <loc>https://kgmyshin.blog/categories/</loc>
   </url><url>
-    <loc>https://kgmyshin.github.io/kgmyshin-log/</loc>
+    <loc>https://kgmyshin.blog/</loc>
   </url><url>
-    <loc>https://kgmyshin.github.io/kgmyshin-log/tags/</loc>
+    <loc>https://kgmyshin.blog/tags/</loc>
   </url>
 </urlset>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on kgmyshin log</title>
-    <link>https://kgmyshin.github.io/kgmyshin-log/categories/</link>
+    <link>https://kgmyshin.blog/categories/</link>
     <description>Recent content in Categories on kgmyshin log</description>
     <image>
       <title>kgmyshin log</title>
-      <url>https://kgmyshin.github.io/kgmyshin-log/profile.jpg</url>
-      <link>https://kgmyshin.github.io/kgmyshin-log/profile.jpg</link>
+      <url>https://kgmyshin.blog/profile.jpg</url>
+      <link>https://kgmyshin.blog/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://kgmyshin.github.io/kgmyshin-log/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://kgmyshin.blog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
