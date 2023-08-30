@@ -42,6 +42,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  googleAnalyticsID: G-8E34H44SKE
 
   assets:
     # disableHLJS: true # to disable highlight.js
