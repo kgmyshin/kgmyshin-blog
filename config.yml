@@ -55,22 +55,18 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "ExampleSite"
+    title: "kgmyshin"
     imageUrl: "profile.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
-
   socialIcons:
     - name: twitter
       url: "https://twitter.com/kgmyshin"
     - name: github
       url: "https://github.com/kgmyshin"
+    - name: note
+      url: "https://note.com/kgmyshin"
     - name: email
       url: "https://kgmyshin.jp/contact/"
 
@@ -105,20 +101,16 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: posts
+      name: posts
+      url: /posts/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
     - resume:
       name: resume
       url: https://bit.ly/3z62dyw
       weight: 30
-    - identifier: blog
-      name: blog
+    - identifier: site
+      name: site
       url: https://kgmyshin.jp/
       weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
