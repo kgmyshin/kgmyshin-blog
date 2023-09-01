@@ -1,0 +1,24 @@
+name: Book Review
+description: 読書ログ
+title: "[読書]: "
+labels: ["book"]
+projects: ["kgmyshin/4"]
+assignees:
+  - kgmyshin
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Book Title
+      description: 本のタイトルを記入してください
+      placeholder: 本のタイトル
+    validations:
+      required: true
+    - type: input
+    id: title
+    attributes:
+      label: Link
+      description: 書籍の購入リンクを記入してください
+      placeholder: Link
+    validations:
+      required: true
