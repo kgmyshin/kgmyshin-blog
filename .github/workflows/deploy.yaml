@@ -20,7 +20,7 @@ jobs:
         run: hugo
 
       - name: add CNAME
-        run: echo "kgmyshin.blog" > CNAME
+        run: echo "kgmyshin.blog" > ./docs/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
