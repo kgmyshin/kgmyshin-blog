@@ -1,5 +1,5 @@
 baseURL: "https://kgmyshin.blog"
-title: kgmyshin log
+title: kgmyshin blog
 paginate: 5
 theme: PaperMod
 publishDir: "docs"
@@ -17,9 +17,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: kgmyshin log
+  title: kgmyshin blog
   description: "kgmyshin"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [kgmyshin, Blog, Portfolio]
   author: kgmyshin
   # author: ["Me", "You"] # multiple authors
   images: ["profile.jpg"]
@@ -82,11 +82,6 @@ params:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
-
-  editPost:
-    URL: "https://github.com/kgmyshin/kgmyshin-log/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
