@@ -1,11 +1,8 @@
----
 name: Book Review
 description: 読書ログ
 title: "[読書]: "
-labels:
-  - book
-projects:
-  - kgmyshin/4
+labels: ["book"]
+projects: ["kgmyshin/4"]
 assignees:
   - kgmyshin
 body:
@@ -18,7 +15,7 @@ body:
     validations:
       required: true
   - type: input
-    id: title
+    id: link
     attributes:
       label: Link
       description: 書籍の購入リンクを記入してください
