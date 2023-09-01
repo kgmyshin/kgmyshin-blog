@@ -1,0 +1,31 @@
+name: Good Place
+description: 良かった場所
+title: "[場所]: "
+labels: ["place"]
+projects: ["kgmyshin/4"]
+assignees:
+  - kgmyshin
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 場所名
+      description: 場所の名前を記入してください
+      placeholder: 場所の名前
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: 場所のリンクを記入してください
+      placeholder: Link
+    validations:
+      required: true
+  - type: textarea
+    id: review
+    attributes:
+      label: 説明や感想
+      description: 説明や感想を記入してください
+    validations:
+      required: false

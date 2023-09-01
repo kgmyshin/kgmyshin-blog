@@ -1,0 +1,31 @@
+name: Good Goods
+description: 買って良かった物
+title: "[商品]: "
+labels: ["goods"]
+projects: ["kgmyshin/4"]
+assignees:
+  - kgmyshin
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Goods Name
+      description: 商品名を記入してください
+      placeholder: 商品名
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: 商品の購入リンクを記入してください
+      placeholder: Link
+    validations:
+      required: true
+  - type: textarea
+    id: review
+    attributes:
+      label: 説明や感想
+      description: 説明や感想を記入してください
+    validations:
+      required: false

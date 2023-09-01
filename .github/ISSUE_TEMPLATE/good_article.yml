@@ -1,7 +1,7 @@
-name: Book Review
-description: 読書ログ
-title: "[読書]: "
-labels: ["book"]
+name: Good Article
+description: 良かった記事
+title: "[記事]: "
+labels: ["article"]
 projects: ["kgmyshin/4"]
 assignees:
   - kgmyshin
@@ -9,16 +9,16 @@ body:
   - type: input
     id: title
     attributes:
-      label: Book Title
-      description: 本のタイトルを記入してください
-      placeholder: 本のタイトル
+      label: Article Title
+      description: 記事のタイトルを記入してください
+      placeholder: 記事のタイトル
     validations:
       required: true
   - type: input
     id: link
     attributes:
       label: Link
-      description: 書籍の購入リンクを記入してください
+      description: 記事のリンクを記入してください
       placeholder: Link
     validations:
       required: true
