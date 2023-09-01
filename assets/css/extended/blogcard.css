@@ -1,0 +1,42 @@
+.blogcard {
+	display: flex;
+	justify-content: flex-start;
+	align-items: stretch;
+	margin: 1rem 0;
+	padding: 1.2rem;
+	border: 1px solid var(--secondary);
+}
+
+.blogcard-content {
+	flex-grow: 1;
+}
+
+.blogcard-title {
+	display: -webkit-box;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	padding-right: 2rem;
+	margin-bottom: 1rem;
+	font-size: 1.2rem;
+	line-height: 1.6;
+	font-weight: bold;
+	color: var(--secondary);
+}
+
+.blogcard-excerpt {
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	padding-right: 2rem;
+	font-size: 1rem;
+	font-weight: normal;
+	color: var(--secondary);
+}
+
+.blogcard-thumbnail {
+	width: auto;
+	height: auto;
+	max-width: 20%;
+}

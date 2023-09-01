@@ -1,0 +1,20 @@
+{{- $description := .Inner -}}
+{{- $url := .Get "url" -}}
+{{- $image := .Get "img" -}}
+{{- $title := .Get "title" -}}
+
+<div class="blogcard">
+  <div class="blogcard-content">
+    <div class="blogcard-title">
+      <a class="link" href="{{ $url }}">
+	{{ $title | truncate 80}}
+      </a>
+    </div>
+    <div class="blogcard-excerpt">
+      {{ $description }}
+    </div>
+  </div>
+  <div class="blogcard-thumbnail">
+    <img src="{{ $image }}" alt="{{ $title }}" />
+  </div>
+</div>
