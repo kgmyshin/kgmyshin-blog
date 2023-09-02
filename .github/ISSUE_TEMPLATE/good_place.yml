@@ -2,7 +2,7 @@ name: Good Place
 description: 良かった場所
 title: "[場所]: "
 labels: ["place"]
-projects: ["kgmyshin/4"]
+projects: []
 assignees:
   - kgmyshin
 body:

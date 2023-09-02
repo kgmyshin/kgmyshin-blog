@@ -2,7 +2,7 @@ name: Good Article
 description: 良かった記事
 title: "[記事]: "
 labels: ["article"]
-projects: ["kgmyshin/4"]
+projects: []
 assignees:
   - kgmyshin
 body:

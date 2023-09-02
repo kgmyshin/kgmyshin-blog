@@ -1,8 +1,8 @@
 name: Daily Memo
-description: 日々感じたことメモ
+description: 日々感じたことメモ、ネタ
 title: "[日々メモ]: "
 labels: ["memo"]
-projects: ["kgmyshin/4"]
+projects: ["kgmyshin/5"]
 assignees:
   - kgmyshin
 body:

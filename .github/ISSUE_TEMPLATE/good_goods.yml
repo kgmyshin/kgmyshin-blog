@@ -2,7 +2,7 @@ name: Good Goods
 description: 買って良かった物
 title: "[商品]: "
 labels: ["goods"]
-projects: ["kgmyshin/4"]
+projects: []
 assignees:
   - kgmyshin
 body:
