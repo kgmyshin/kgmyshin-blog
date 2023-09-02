@@ -1,0 +1,15 @@
+name: Daily Memo
+description: 日々感じたことメモ
+title: "[日々メモ]: "
+labels: ["memo"]
+projects: ["kgmyshin/4"]
+assignees:
+  - kgmyshin
+body:
+  - type: textarea
+    id: memo
+    attributes:
+      label: 思ったこと
+      description: 思ったことや感想を記入してください
+    validations:
+      required: true
