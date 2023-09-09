@@ -28,6 +28,7 @@ ___
 | --- | --- | --- | --- | --- |
 | {{< figure src="https://m.media-amazon.com/images/I/51LGmchUqXL._SX344_BO1,204,203,200_.jpg" width="150" >}} | 書く習慣 | アウトプットしようと思った | [リンク](https://amzn.to/45WSbAn) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/14) |
 | {{< figure src="https://m.media-amazon.com/images/I/B10i1R+xHQS._SY300_.png" width="150" >}} | ブルーロック | 今更だけどいっき読みしてしまった。<br>ぬるいチームワークじゃない、喰いあえって感じがしてめっちゃ好き。 | [リンク](https://amzn.to/3R6S2GH) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/19) |
+| {{< figure src="https://m.media-amazon.com/images/I/51HrhpwcybL.jpg" width="150" >}} | 「技術書」の読書術 | 結構実践できてそうでよかった。もっと量を読もうとも思った。 | [リンク](https://amzn.to/488TOwT) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/21) |
 
 ___
 
