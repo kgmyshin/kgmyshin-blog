@@ -24,11 +24,13 @@ ___
 
 ### 読んだ本
 
-| 画像 | タイトル | ひとこと | 購入リンク | 感想 |
-| --- | --- | --- | --- | --- |
-| {{< figure src="https://m.media-amazon.com/images/I/51LGmchUqXL._SX344_BO1,204,203,200_.jpg" width="150" >}} | 書く習慣 | アウトプットしようと思った | [リンク](https://amzn.to/45WSbAn) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/14) |
-| {{< figure src="https://m.media-amazon.com/images/I/B10i1R+xHQS._SY300_.png" width="150" >}} | ブルーロック | 今更だけどいっき読みしてしまった。<br>ぬるいチームワークじゃない、喰いあえって感じがしてめっちゃ好き。 | [リンク](https://amzn.to/3R6S2GH) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/19) |
-| {{< figure src="https://m.media-amazon.com/images/I/51HrhpwcybL.jpg" width="150" >}} | 「技術書」の読書術 | 結構実践できてそうでよかった。もっと量を読もうとも思った。 | [リンク](https://amzn.to/488TOwT) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/21) |
+| お薦め | 画像 | タイトル | ひとこと | 購入リンク | 感想 |
+| --- | --- | --- | --- | --- | --- |
+| | {{< figure src="https://m.media-amazon.com/images/I/51LGmchUqXL._SX344_BO1,204,203,200_.jpg" width="150" >}} | 書く習慣 | アウトプットしようと思った | [リンク](https://amzn.to/45WSbAn) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/14) |
+| ★ | {{< figure src="https://m.media-amazon.com/images/I/B10i1R+xHQS._SY300_.png" width="150" >}} | ブルーロック | 今更だけどいっき読みしてしまった。<br>ぬるいチームワークじゃない、喰いあえって感じがしてめっちゃ好き。 | [リンク](https://amzn.to/3R6S2GH) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/19) |
+| | {{< figure src="https://m.media-amazon.com/images/I/51HrhpwcybL.jpg" width="150" >}} | 「技術書」の読書術 | 結構実践できてそうでよかった。<br>もっと量を読もうとも思った。 | [リンク](https://amzn.to/488TOwT) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/21) |
+| ★ | {{< figure src="https://m.media-amazon.com/images/I/51EGrsZKl7L.jpg" width="150" >}} | 紛争でしたら八田まで | 地政学でいろいろ解決していく漫画。<br>気づいたら読み進めまくってるし、<br>知識の幅も広がるしで間違いなく良書。 | [リンク](https://amzn.to/48jCENl) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/22) |
+|  | {{< figure src="https://m.media-amazon.com/images/I/51ytj+fysQL._SY346_.jpg" width="150" >}} | ひとりEC | 一人でECサイトを運営する入門本。<br>仕入れの仕方とかが気になったので<br> 次はそこら辺をあさってみようかな。 | [リンク](https://amzn.to/3ZlHW6P) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/25) |
 
 ___
 
@@ -60,7 +62,8 @@ ___
 
 | 画像 | 店名 | ひとこと | リンク | 感想 |
 | --- | --- | --- | --- | --- |
-| {{< figure src="https://user-images.githubusercontent.com/6851980/265201211-269e8a05-1593-4eed-8e24-a2c58fc7bdac.jpg" width="150" >}} | 麺や兼虎 | まじめに人生トップ5レベルのつけ麺で、このレベルのものが福岡にあるなんて。 | [リンク](https://www.kanetora.co.jp/deitos) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/11) |
-| {{< figure src="https://pbs.twimg.com/media/F5FdSouaAAAVOP7?format=jpg&name=medium" width="150" >}} | スタンドうみねこyoca | 「スローカーブをもう一度」がすごいうまかった。立ち飲みで行きやすいし、また行く。 | [リンク](https://maps.app.goo.gl/oYbhAepdux437Fqw8) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/17) |
-| {{< figure src="https://user-images.githubusercontent.com/6851980/266616642-07c02189-0dd2-4e60-9f53-62ff68b9cd2c.jpg" width="150" >}} | 焼肉ホルモン人生大ちゃん | 東京の頃からずっと通ってる焼肉屋が福岡にもできた。もうここがずっとここがNo1よ。 | [リンク](https://tabelog.com/fukuoka/A4001/A400201/40060764/) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/20) |
+| {{< figure src="https://user-images.githubusercontent.com/6851980/265201211-269e8a05-1593-4eed-8e24-a2c58fc7bdac.jpg" width="150" >}} | 麺や兼虎 | まじめに人生トップ5レベルのつけ麺で、<br> このレベルのものが福岡にあるなんて。 | [リンク](https://www.kanetora.co.jp/deitos) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/11) |
+| {{< figure src="https://pbs.twimg.com/media/F5FdSouaAAAVOP7?format=jpg&name=medium" width="150" >}} | スタンドうみねこyoca | 「スローカーブをもう一度」がすごいうまかった。<br> 立ち飲みで行きやすいし、また行く。 | [リンク](https://maps.app.goo.gl/oYbhAepdux437Fqw8) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/17) |
+| {{< figure src="https://user-images.githubusercontent.com/6851980/266616642-07c02189-0dd2-4e60-9f53-62ff68b9cd2c.jpg" width="150" >}} | 焼肉ホルモン人生大ちゃん | 東京の頃からずっと通ってる焼肉屋が福岡にもできた。<br> もうここがずっとここがNo1よ。 | [リンク](https://tabelog.com/fukuoka/A4001/A400201/40060764/) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/20) |
+| {{< figure src="https://user-images.githubusercontent.com/6851980/268435844-b782f0c7-b460-4b2e-8124-d85640f6dc97.jpg" width="150" >}} | つけ麺屋 やすべえ | 上京してからずっと自分至上No1のつけ麺屋。<br> 久しぶりにたべたけど、やっぱりうまい。 | [リンク](https://tabelog.com/tokyo/A1303/A130301/13001149/) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/23) |
 ___
