@@ -44,6 +44,7 @@ Android技術情報の共有とコミュニケーションを目的に、2023年
 | ★ | {{< figure src="https://m.media-amazon.com/images/I/71uGGNPA8ZL._SY522_.jpg" width="150" >}}  | 物語思考 | 中身のない自己啓発とは違って<br> Howをたくさん書いてある本.<br>納得度もあるし、再現性もありそう。<br>めっちゃよかった。 | [リンク](https://amzn.to/3PxpKT6) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/28) |
 | ★ | {{< figure src="https://m.media-amazon.com/images/I/51NB9s0oeRL._SY300_.jpg" width="150" >}}  | 最凶の<br> 支援職【話術士】である<br> 俺は世界最強クランを<br> 従える | 転生しないなろう系。<br> エゴい。<br> 絵も内容も癖があって相まって良い。 | [リンク](https://amzn.to/3RB1dze) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/29) |
 | ★ | {{< figure src="https://m.media-amazon.com/images/I/B19QC7Qv1IS._SY300_.png" width="150" >}}  | 葬送のフリーレン | 終わってから始まる物語。<br> 読んでるだけでもが空気を感じられる良い漫画。<br> むふーって表情かわいすぎ。 | [リンク](https://amzn.to/48wUNY5) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/30) |
+| ★ | {{< figure src="https://m.media-amazon.com/images/I/B1CArP+0O5S._SY300_.png" width="150" >}}  | 怪獣８号 | 最新話まで一気読みしてもうた。<br> 新しいキャラがみんな<br> 魅力的だしさらに魅力出てくるしでおもろい | [リンク](https://amzn.to/3tiWHeR) | [感想リンク](https://github.com/kgmyshin/kgmyshin-blog/issues/26) |
 
 
 ### 買って良かったもの
