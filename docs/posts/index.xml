@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on kgmyshin blog</title>
-    <link>http://localhost:49836/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on kgmyshin blog</description>
     <image>
       <title>kgmyshin blog</title>
-      <url>http://localhost:49836/profile.jpg</url>
-      <link>http://localhost:49836/profile.jpg</link>
+      <url>http://localhost:1313/profile.jpg</url>
+      <link>http://localhost:1313/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Nov 2024 15:53:20 +0900</lastBuildDate><atom:link href="http://localhost:49836/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Nov 2024 15:53:20 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>kgmyshin の 2024年 </title>
-      <link>http://localhost:49836/posts/2024-12/</link>
+      <link>http://localhost:1313/posts/2024-12/</link>
       <pubDate>Mon, 11 Nov 2024 15:53:20 +0900</pubDate>
       
-      <guid>http://localhost:49836/posts/2024-12/</guid>
+      <guid>http://localhost:1313/posts/2024-12/</guid>
       <description>&lt;p&gt;今年はいろいろ挑戦し、進捗があった年でした。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ポジティブよりな話
@@ -80,7 +80,7 @@
          alt=&#34;ダッシュボード&#34; width=&#34;50%&#34;/&gt; 
 &lt;/figure&gt;
 
-&lt;p&gt;なんとなく思い立って全体的にAWS認定をとってみてる。&lt;/p&gt;
+&lt;p&gt;なんとなく思い立ってAWS認定をとってみてる。&lt;/p&gt;
 &lt;p&gt;Androidを軸にしながら、バックエンドやフロントエンド、iOSはプロダクションでしっかりコードを書いてきたのだけど、インフラに関しては未経験ではないが他の領域に比べるとどうしても劣るので、払拭するための一歩目として。&lt;/p&gt;
 &lt;p&gt;今年は全部で12個あるうちの8個を取得できた。急いでいないので月にひとつとくらいのペースでやってる。
 個人的には AWS Certified Advanced Networking が 自分がやってることから離れすぎて馴染みがない故に難しかった。&lt;/p&gt;
@@ -99,22 +99,22 @@
          alt=&#34;ダッシュボード&#34; width=&#34;50%&#34;/&gt; 
 &lt;/figure&gt;
 
-&lt;p&gt;これもなんとなくだけど、自宅にk8sを作った。写真以外にももともと使ってたWindowsのデスクトップPCもNodeとしてつながっている。&lt;/p&gt;
+&lt;p&gt;これもなんとなくだけど、自宅にk8sクラスタを作った。写真以外にももともと使ってたWindowsのデスクトップPCもNodeとしてつながっている。&lt;/p&gt;
 &lt;figure class=&#34;center&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;image/k8s_2.png&#34;
          alt=&#34;ダッシュボード&#34; width=&#34;50%&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Control Plane などの冗長化とかはやってなくて、シンプルな感じにした。&lt;/p&gt;
-&lt;p&gt;k8s自体の操作は &lt;a href=&#34;https://www.amazon.co.jp/dp/4798183962&#34;&gt;つくって、壊して、直して学ぶ Kubernetes入門&lt;/a&gt; でわりかしいけたけど、自宅k8sクラスターはそこまでやってる人も多くない分、学びが多かった。&lt;/p&gt;</description>
+&lt;p&gt;k8s自体の操作は &lt;a href=&#34;https://www.amazon.co.jp/dp/4798183962&#34;&gt;つくって、壊して、直して学ぶ Kubernetes入門&lt;/a&gt; で学んだ。自宅k8sクラスターの構築に関してはそこまでやってる人が多くない分、学びが多かった。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2023/09 振り返り</title>
-      <link>http://localhost:49836/posts/2023-09/</link>
+      <link>http://localhost:1313/posts/2023-09/</link>
       <pubDate>Wed, 30 Aug 2023 17:19:09 +0900</pubDate>
       
-      <guid>http://localhost:49836/posts/2023-09/</guid>
+      <guid>http://localhost:1313/posts/2023-09/</guid>
       <description>&lt;h2 id=&#34;日々&#34;&gt;日々&lt;/h2&gt;
 &lt;h3 id=&#34;あったかいマーケティング&#34;&gt;あったかいマーケティング&lt;/h3&gt;
 &lt;p&gt;家の近くの工事中な建物の入り口のところに「奥がふぐ屋なのは決まってるんですけど、1Fの手前のスペースが何も決まってません。なにがあるといいですか？」って書かれてた。
