@@ -80,7 +80,7 @@
          alt=&#34;ダッシュボード&#34; width=&#34;50%&#34;/&gt; 
 &lt;/figure&gt;
 
-&lt;p&gt;なんとなく思い立って全体的にAWS認定をとってみてる。&lt;/p&gt;
+&lt;p&gt;なんとなく思い立ってAWS認定をとってみてる。&lt;/p&gt;
 &lt;p&gt;Androidを軸にしながら、バックエンドやフロントエンド、iOSはプロダクションでしっかりコードを書いてきたのだけど、インフラに関しては未経験ではないが他の領域に比べるとどうしても劣るので、払拭するための一歩目として。&lt;/p&gt;
 &lt;p&gt;今年は全部で12個あるうちの8個を取得できた。急いでいないので月にひとつとくらいのペースでやってる。
 個人的には AWS Certified Advanced Networking が 自分がやってることから離れすぎて馴染みがない故に難しかった。&lt;/p&gt;
@@ -99,14 +99,14 @@
          alt=&#34;ダッシュボード&#34; width=&#34;50%&#34;/&gt; 
 &lt;/figure&gt;
 
-&lt;p&gt;これもなんとなくだけど、自宅にk8sを作った。写真以外にももともと使ってたWindowsのデスクトップPCもNodeとしてつながっている。&lt;/p&gt;
+&lt;p&gt;これもなんとなくだけど、自宅にk8sクラスタを作った。写真以外にももともと使ってたWindowsのデスクトップPCもNodeとしてつながっている。&lt;/p&gt;
 &lt;figure class=&#34;center&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;image/k8s_2.png&#34;
          alt=&#34;ダッシュボード&#34; width=&#34;50%&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Control Plane などの冗長化とかはやってなくて、シンプルな感じにした。&lt;/p&gt;
-&lt;p&gt;k8s自体の操作は &lt;a href=&#34;https://www.amazon.co.jp/dp/4798183962&#34;&gt;つくって、壊して、直して学ぶ Kubernetes入門&lt;/a&gt; でわりかしいけたけど、自宅k8sクラスターはそこまでやってる人も多くない分、学びが多かった。&lt;/p&gt;</description>
+&lt;p&gt;k8s自体の操作は &lt;a href=&#34;https://www.amazon.co.jp/dp/4798183962&#34;&gt;つくって、壊して、直して学ぶ Kubernetes入門&lt;/a&gt; で学んだ。自宅k8sクラスターの構築に関してはそこまでやってる人が多くない分、学びが多かった。&lt;/p&gt;</description>
     </item>
     
     <item>
