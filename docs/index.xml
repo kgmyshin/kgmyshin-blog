@@ -1,15 +1,247 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>kgmyshin log</title>
-    <link>https://examplesite.com/</link>
-    <description>Recent content on kgmyshin log</description>
+    <title>kgmyshin blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on kgmyshin blog</description>
     <image>
-      <title>kgmyshin log</title>
-      <url>https://examplesite.com/profile.jpg</url>
-      <link>https://examplesite.com/profile.jpg</link>
+      <title>kgmyshin blog</title>
+      <url>http://localhost:1313/profile.jpg</url>
+      <link>http://localhost:1313/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Nov 2024 15:53:20 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024年振り返り</title>
+      <link>http://localhost:1313/posts/2024-12/</link>
+      <pubDate>Mon, 11 Nov 2024 15:53:20 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/2024-12/</guid>
+      <description>&lt;h2 id=&#34;2024年振り返り&#34;&gt;2024年振り返り&lt;/h2&gt;
+&lt;h3 id=&#34;体重減った&#34;&gt;体重減った&lt;/h3&gt;
+&lt;figure class=&#34;center&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/looker.png&#34;
+         alt=&#34;ダッシュボード&#34; width=&#34;50%&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;leetcode続いた&#34;&gt;LeetCode続いた&lt;/h3&gt;
+&lt;h3 id=&#34;aws認定そこそことった&#34;&gt;AWS認定そこそことった&lt;/h3&gt;
+&lt;h3 id=&#34;自宅でk8sクラスタ作った&#34;&gt;自宅でk8sクラスタ作った&lt;/h3&gt;
+&lt;h3 id=&#34;料理した&#34;&gt;料理した&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023/09 振り返り</title>
+      <link>http://localhost:1313/posts/2023-09/</link>
+      <pubDate>Wed, 30 Aug 2023 17:19:09 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/2023-09/</guid>
+      <description>&lt;h2 id=&#34;日々&#34;&gt;日々&lt;/h2&gt;
+&lt;h3 id=&#34;あったかいマーケティング&#34;&gt;あったかいマーケティング&lt;/h3&gt;
+&lt;p&gt;家の近くの工事中な建物の入り口のところに「奥がふぐ屋なのは決まってるんですけど、1Fの手前のスペースが何も決まってません。なにがあるといいですか？」って書かれてた。
+マジックが置かれてて、投票できるようになっててとってもほっこりした。&lt;/p&gt;
+&lt;p&gt;ひとまず日本酒スタンドバーに一票入れておきました。店ができたら行きます。&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;すごい良いユーザー参加型のマーケティングよね。自分も票入れたし、できたら行きますわ（写真に写ってないけど、1F奥はふぐ屋） &lt;a href=&#34;https://t.co/IhyWUR5GDX&#34;&gt;pic.twitter.com/IhyWUR5GDX&lt;/a&gt;&lt;/p&gt;&amp;mdash; 一般男性🌟 (@kgmyshin) &lt;a href=&#34;https://twitter.com/kgmyshin/status/1697878039596794051?ref_src=twsrc%5Etfw&#34;&gt;September 2, 2023&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr&gt;
+&lt;h3 id=&#34;droidkaigi-行ってきたよ&#34;&gt;DroidKaigi 行ってきたよ&lt;/h3&gt;
+&lt;div class=&#34;blogcard&#34;&gt;
+  &lt;div class=&#34;blogcard-content&#34;&gt;
+    &lt;div class=&#34;blogcard-title&#34;&gt;
+      &lt;a class=&#34;link&#34; href=&#34;https://2023.droidkaigi.jp/&#34;&gt;
+	DroidKaigi 2023
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;blogcard-excerpt&#34;&gt;
+      
+DroidKaigiはエンジニアが主役のAndroidカンファレンスです。
+Android技術情報の共有とコミュニケーションを目的に、2023年9月14日(木)〜16(土)の3日間開催します。
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;blogcard-thumbnail&#34;&gt;
+    &lt;img src=&#34;https://2023.droidkaigi.jp/static/ogp-25beca1c9bd7eb37b21da307dfa7be39.png&#34; alt=&#34;DroidKaigi 2023&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;前回のDroidKaigiぶりに会える人がたくさんいて、大規模オフラインイベントはやっぱりいいなという気持ちと、このコミュニティへの帰属意識が高まる気持ちになった。&lt;/p&gt;
+&lt;p&gt;そして自分は自社のブースで基本店番してました。今回は落ちたけど、またCfP提出頑張ろう。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;インプット&#34;&gt;インプット&lt;/h2&gt;
+&lt;h3 id=&#34;読んだ本&#34;&gt;読んだ本&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;お薦め&lt;/th&gt;
+          &lt;th&gt;画像&lt;/th&gt;
+          &lt;th&gt;タイトル&lt;/th&gt;
+          &lt;th&gt;ひとこと&lt;/th&gt;
+          &lt;th&gt;購入リンク&lt;/th&gt;
+          &lt;th&gt;感想&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://m.media-amazon.com/images/I/51LGmchUqXL._SX344_BO1,204,203,200_.jpg&#34; width=&#34;150&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;書く習慣&lt;/td&gt;
+          &lt;td&gt;アウトプットしようと思った&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://amzn.to/45WSbAn&#34;&gt;リンク&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/kgmyshin/kgmyshin-blog/issues/14&#34;&gt;感想リンク&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;★&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://m.media-amazon.com/images/I/B10i1R&amp;#43;xHQS._SY300_.png&#34; width=&#34;150&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;ブルーロック&lt;/td&gt;
+          &lt;td&gt;今更だけどいっき読みしてしまった。&lt;!-- raw HTML omitted --&gt;ぬるいチームワークじゃない、喰いあえって感じがしてめっちゃ好き。&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://amzn.to/3R6S2GH&#34;&gt;リンク&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/kgmyshin/kgmyshin-blog/issues/19&#34;&gt;感想リンク&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://m.media-amazon.com/images/I/51HrhpwcybL.jpg&#34; width=&#34;150&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;「技術書」の読書術&lt;/td&gt;
+          &lt;td&gt;結構実践できてそうでよかった。&lt;!-- raw HTML omitted --&gt;もっと量を読もうとも思った。&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://amzn.to/488TOwT&#34;&gt;リンク&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/kgmyshin/kgmyshin-blog/issues/21&#34;&gt;感想リンク&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;★&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://m.media-amazon.com/images/I/51EGrsZKl7L.jpg&#34; width=&#34;150&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;紛争でしたら八田まで&lt;/td&gt;
+          &lt;td&gt;地政学でいろいろ解決していく漫画。&lt;!-- raw HTML omitted --&gt;気づいたら読み進めまくってるし、&lt;!-- raw HTML omitted --&gt;知識の幅も広がるしで間違いなく良書。&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://amzn.to/48jCENl&#34;&gt;リンク&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/kgmyshin/kgmyshin-blog/issues/22&#34;&gt;感想リンク&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://m.media-amazon.com/images/I/51ytj&amp;#43;fysQL._SY346_.jpg&#34; width=&#34;150&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;ひとりEC&lt;/td&gt;
+          &lt;td&gt;一人でECサイトを運営する入門本。&lt;!-- raw HTML omitted --&gt;仕入れの仕方とかが気になったので&lt;!-- raw HTML omitted --&gt; 次はそこら辺をあさってみようかな。&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://amzn.to/3ZlHW6P&#34;&gt;リンク&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/kgmyshin/kgmyshin-blog/issues/25&#34;&gt;感想リンク&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;★&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://m.media-amazon.com/images/I/71uGGNPA8ZL._SY522_.jpg&#34; width=&#34;150&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;物語思考&lt;/td&gt;
+          &lt;td&gt;中身のない自己啓発とは違って&lt;!-- raw HTML omitted --&gt; Howをたくさん書いてある本.&lt;!-- raw HTML omitted --&gt;納得度もあるし、再現性もありそう。&lt;!-- raw HTML omitted --&gt;めっちゃよかった。&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://amzn.to/3PxpKT6&#34;&gt;リンク&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/kgmyshin/kgmyshin-blog/issues/28&#34;&gt;感想リンク&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;★&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://m.media-amazon.com/images/I/51NB9s0oeRL._SY300_.jpg&#34; width=&#34;150&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;最凶の&lt;!-- raw HTML omitted --&gt; 支援職【話術士】である&lt;!-- raw HTML omitted --&gt; 俺は世界最強クランを&lt;!-- raw HTML omitted --&gt; 従える&lt;/td&gt;
+          &lt;td&gt;転生しないなろう系。&lt;!-- raw HTML omitted --&gt; エゴい。&lt;!-- raw HTML omitted --&gt; 絵も内容も癖があって相まって良い。&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://amzn.to/3RB1dze&#34;&gt;リンク&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/kgmyshin/kgmyshin-blog/issues/29&#34;&gt;感想リンク&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;★&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://m.media-amazon.com/images/I/B19QC7Qv1IS._SY300_.png&#34; width=&#34;150&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;葬送のフリーレン&lt;/td&gt;
+          &lt;td&gt;終わってから始まる物語。&lt;!-- raw HTML omitted --&gt; 読んでるだけでもが空気を感じられる良い漫画。&lt;!-- raw HTML omitted --&gt; むふーって表情かわいすぎ。&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://amzn.to/48wUNY5&#34;&gt;リンク&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/kgmyshin/kgmyshin-blog/issues/30&#34;&gt;感想リンク&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;★&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://m.media-amazon.com/images/I/B1CArP&amp;#43;0O5S._SY300_.png&#34; width=&#34;150&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;怪獣８号&lt;/td&gt;
+          &lt;td&gt;最新話まで一気読みしてもうた。&lt;!-- raw HTML omitted --&gt; 新しいキャラがみんな&lt;!-- raw HTML omitted --&gt; 魅力的だしさらに魅力出てくるしでおもろい&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://amzn.to/3tiWHeR&#34;&gt;リンク&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/kgmyshin/kgmyshin-blog/issues/26&#34;&gt;感想リンク&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;買って良かったもの&#34;&gt;買って良かったもの&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;画像&lt;/th&gt;
+          &lt;th&gt;タイトル&lt;/th&gt;
+          &lt;th&gt;ひとこと&lt;/th&gt;
+          &lt;th&gt;購入リンク&lt;/th&gt;
+          &lt;th&gt;感想&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://m.media-amazon.com/images/I/61TX1M6DTVL._AC_SX679_.jpg&#34; width=&#34;150&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;GMKtec NucBox K2&lt;/td&gt;
+          &lt;td&gt;安い！！！！&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://amzn.to/3L6hhF4&#34;&gt;リンク&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/kgmyshin/kgmyshin-blog/issues/15&#34;&gt;感想リンク&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://makeshop-multi-images.akamaized.net/tomozoe/itemimages/000000000089_C7Hk8c0.jpg&#34; width=&#34;150&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;三井の寿 スラムダンクラベル&lt;/td&gt;
+          &lt;td&gt;三井寿、最高。&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.tomozoe-honten.co.jp/view/item/000000000089?category_page_id=miinokotobuki&#34;&gt;リンク&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/kgmyshin/kgmyshin-blog/issues/13&#34;&gt;感想リンク&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://p1-e6eeae93.imageflux.jp/c!/a=2,w=920,h=920,b=ffffff00,f=webp:auto/budounotane/e2ba8257f6c6111452e2.jpg&#34; width=&#34;150&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;豆たん&lt;/td&gt;
+          &lt;td&gt;ガチでうまいお菓子。お土産レベルマックス。&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://budounotane.shop/items/60692e38baeb3a0cd47c72ab&#34;&gt;リンク&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/kgmyshin/kgmyshin-blog/issues/20&#34;&gt;感想リンク&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://m.media-amazon.com/images/I/71eIbaPs5vL.__AC_SX300_SY300_QL70_ML2_.jpg&#34; width=&#34;150&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;ハケンアニメ！（劇場版）&lt;/td&gt;
+          &lt;td&gt;だいぶ昔に小説読んだんだけど、&lt;!-- raw HTML omitted --&gt;映画だとアニメの映像もあるのでさらに良い。&lt;!-- raw HTML omitted --&gt; バラバラの才能たちが力を合わせて&lt;!-- raw HTML omitted --&gt; 一つの作品を作るの好きすぎる。&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://amzn.to/3EVfkHW&#34;&gt;リンク&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/kgmyshin/kgmyshin-blog/issues/27&#34;&gt;感想リンク&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;ピックアップ&#34;&gt;ピックアップ&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;GMKtec NucBox K2&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
