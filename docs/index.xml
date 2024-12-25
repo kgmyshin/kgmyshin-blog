@@ -19,11 +19,16 @@
       
       <guid>http://localhost:1313/posts/2024-12/</guid>
       <description>&lt;h2 id=&#34;2024年振り返り&#34;&gt;2024年振り返り&lt;/h2&gt;
-&lt;h3 id=&#34;体重&#34;&gt;体重&lt;/h3&gt;
-&lt;h3 id=&#34;個人開発&#34;&gt;個人開発&lt;/h3&gt;
-&lt;h3 id=&#34;leetcode&#34;&gt;LeetCode&lt;/h3&gt;
-&lt;h3 id=&#34;aws-certification&#34;&gt;AWS Certification&lt;/h3&gt;
-&lt;h3 id=&#34;k8s&#34;&gt;k8s&lt;/h3&gt;</description>
+&lt;h3 id=&#34;体重減った&#34;&gt;体重減った&lt;/h3&gt;
+&lt;figure class=&#34;center&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/looker.png&#34;
+         alt=&#34;ダッシュボード&#34; width=&#34;50%&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;leetcode続いた&#34;&gt;LeetCode続いた&lt;/h3&gt;
+&lt;h3 id=&#34;aws認定そこそことった&#34;&gt;AWS認定そこそことった&lt;/h3&gt;
+&lt;h3 id=&#34;自宅でk8sクラスタ作った&#34;&gt;自宅でk8sクラスタ作った&lt;/h3&gt;
+&lt;h3 id=&#34;料理した&#34;&gt;料理した&lt;/h3&gt;</description>
     </item>
     
     <item>
@@ -37,7 +42,7 @@
 &lt;p&gt;家の近くの工事中な建物の入り口のところに「奥がふぐ屋なのは決まってるんですけど、1Fの手前のスペースが何も決まってません。なにがあるといいですか？」って書かれてた。
 マジックが置かれてて、投票できるようになっててとってもほっこりした。&lt;/p&gt;
 &lt;p&gt;ひとまず日本酒スタンドバーに一票入れておきました。店ができたら行きます。&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;すごい良いユーザー参加型のマーケティングよね。自分も票入れたし、できたら行きますわ（写真に写ってないけど、1F奥はふぐ屋） &lt;a href=&#34;https://t.co/IhyWUR5GDX&#34;&gt;pic.twitter.com/IhyWUR5GDX&lt;/a&gt;&lt;/p&gt;&amp;mdash; 一般男性 (@kgmyshin) &lt;a href=&#34;https://twitter.com/kgmyshin/status/1697878039596794051?ref_src=twsrc%5Etfw&#34;&gt;September 2, 2023&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;すごい良いユーザー参加型のマーケティングよね。自分も票入れたし、できたら行きますわ（写真に写ってないけど、1F奥はふぐ屋） &lt;a href=&#34;https://t.co/IhyWUR5GDX&#34;&gt;pic.twitter.com/IhyWUR5GDX&lt;/a&gt;&lt;/p&gt;&amp;mdash; 一般男性🌟 (@kgmyshin) &lt;a href=&#34;https://twitter.com/kgmyshin/status/1697878039596794051?ref_src=twsrc%5Etfw&#34;&gt;September 2, 2023&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 

@@ -1,3 +1,15 @@
 :root {
 	--main-width: 1000px;
 }
+
+figure.center {
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+}
+
+figure.center img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
