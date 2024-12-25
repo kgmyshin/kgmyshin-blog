@@ -2,41 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>kgmyshin blog</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:49836/</link>
     <description>Recent content on kgmyshin blog</description>
     <image>
       <title>kgmyshin blog</title>
-      <url>http://localhost:1313/profile.jpg</url>
-      <link>http://localhost:1313/profile.jpg</link>
+      <url>http://localhost:49836/profile.jpg</url>
+      <link>http://localhost:49836/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Nov 2024 15:53:20 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Nov 2024 15:53:20 +0900</lastBuildDate><atom:link href="http://localhost:49836/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2024年振り返り</title>
-      <link>http://localhost:1313/posts/2024-12/</link>
+      <title>kgmyshin の 2024年 </title>
+      <link>http://localhost:49836/posts/2024-12/</link>
       <pubDate>Mon, 11 Nov 2024 15:53:20 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/2024-12/</guid>
-      <description>&lt;h2 id=&#34;2024年振り返り&#34;&gt;2024年振り返り&lt;/h2&gt;
-&lt;h3 id=&#34;体重減った&#34;&gt;体重減った&lt;/h3&gt;
+      <guid>http://localhost:49836/posts/2024-12/</guid>
+      <description>&lt;p&gt;今年はいろいろ挑戦し、進捗があった年でした。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ポジティブよりな話
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BD%93%E9%87%8D%E3%81%8C10kg%E3%81%8F%E3%82%89%E3%81%84%E6%B8%9B%E3%81%A3%E3%81%9F%E3%82%88&#34;&gt;体重が10kg減った&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#leetcode%E3%81%8C1%E5%B9%B4%E4%BB%A5%E4%B8%8A%E7%B6%9A%E3%81%84%E3%81%9F&#34;&gt;LeetCodeが1年以上続いた&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#aws%E8%AA%8D%E5%AE%9A%E3%82%928%E5%80%8B%E5%8F%96%E3%81%A3%E3%81%9F&#34;&gt;AWS認定を8個取った&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E8%87%AA%E5%AE%85%E3%81%A7k8s%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%88&#34;&gt;自宅でk8sクラスタ作った&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA%E5%AE%A4%E3%80%81%E7%B5%84%E6%88%90%E3%81%97%E3%81%9F%E3%82%88&#34;&gt;アプリ開発室、組成したよ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9C%8D%E4%BD%9C%E3%81%A3%E3%81%A6%E3%82%82%E3%82%89%E3%81%A3%E3%81%A6%E3%82%8B&#34;&gt;服作ってもらってる&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%96%99%E7%90%86%E3%81%97%E3%81%9F&#34;&gt;料理した&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;反省的な話
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%97%9B%E9%A2%A8%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A4%E3%83%83%E3%83%81&#34;&gt;痛風サンドイッチ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA%E3%80%81%E9%80%B2%E6%8D%97%E3%82%8F%E3%82%8B%E3%81%97&#34;&gt;個人開発、進捗わるし&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%9C%B2%E5%87%BA%E3%81%99%E3%81%8F%E3%81%AA%E3%82%81%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%AA&#34;&gt;露出すくなめだったかな&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ポジティブよりの話&#34;&gt;ポジティブよりの話&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;体重が10kgくらい減ったよ&#34;&gt;体重が10kgくらい減ったよ&lt;/h3&gt;
 &lt;figure class=&#34;center&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;image/looker.png&#34;
+         alt=&#34;ダッシュボード&#34; width=&#34;70%&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;上の図はLooker Studio でダッシュボードを作った図で、１年を通して大体月当たり約1kg減のペース。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;個人的には理想的なペースで減量できたと思う&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;好きなもの食べながら、飲み会とかも特に断ることなくストレスなくできたのはポイント高い。意識してやったのは下記だけ。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;週一のパーソナル&lt;/li&gt;
+&lt;li&gt;適度な運動や散歩&lt;/li&gt;
+&lt;li&gt;雑なカロリー制限&lt;/li&gt;
+&lt;li&gt;体重計測&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;多少、減量のペースが鈍化するタイミングもあったけど、そんなに気にしないようにしてた。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;leetcodeが1年以上続いた&#34;&gt;LeetCodeが1年以上続いた&lt;/h3&gt;
+&lt;figure class=&#34;center&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/leetcode.png&#34;
+         alt=&#34;ダッシュボード&#34; width=&#34;70%&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;毎日なんとなく最低１問解いてるのが続いてる。 &lt;strong&gt;365 Days Badge&lt;/strong&gt; もゲットして習慣として身についている。がっつりやりたいというよりは頭の体操みたいな感じでやってるので、わからんなって時は普通に答えを見に行くようなゆるい運用してた。&lt;/p&gt;
+&lt;p&gt;初期は適当な問題を選んで解いたりコンテスト参加してたりしたけど、最近はもっぱら Daily Challenge を解いてる。&lt;/p&gt;
+&lt;figure class=&#34;center&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/dailychallenge.png&#34;
+         alt=&#34;ダッシュボード&#34; width=&#34;10%&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;連続日数が出るので途切れさせたくない感で程よく惰性でやれてて良い。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;aws認定を8個取った&#34;&gt;AWS認定を8個取った&lt;/h3&gt;
+&lt;figure class=&#34;center&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/aws.png&#34;
          alt=&#34;ダッシュボード&#34; width=&#34;50%&#34;/&gt; 
 &lt;/figure&gt;
 
-&lt;h3 id=&#34;leetcode続いた&#34;&gt;LeetCode続いた&lt;/h3&gt;
-&lt;h3 id=&#34;aws認定そこそことった&#34;&gt;AWS認定そこそことった&lt;/h3&gt;
-&lt;h3 id=&#34;自宅でk8sクラスタ作った&#34;&gt;自宅でk8sクラスタ作った&lt;/h3&gt;
-&lt;h3 id=&#34;料理した&#34;&gt;料理した&lt;/h3&gt;</description>
+&lt;p&gt;なんとなく思い立って全体的にAWS認定をとってみてる。&lt;/p&gt;
+&lt;p&gt;Androidを軸にしながら、バックエンドやフロントエンド、iOSはプロダクションでしっかりコードを書いてきたのだけど、インフラに関しては未経験ではないが他の領域に比べるとどうしても劣るので、払拭するための一歩目として。&lt;/p&gt;
+&lt;p&gt;今年は全部で12個あるうちの8個を取得できた。急いでいないので月にひとつとくらいのペースでやってる。
+個人的には AWS Certified Advanced Networking が 自分がやってることから離れすぎて馴染みがない故に難しかった。&lt;/p&gt;
+&lt;p&gt;全冠するには残り4つ（下記）。今は SCS を勉強中で、上から順に取っていこうかと思ってるところ。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Security Specialty&lt;/li&gt;
+&lt;li&gt;AI Practitioner Foundational&lt;/li&gt;
+&lt;li&gt;Machine Learning Engineer Associate&lt;/li&gt;
+&lt;li&gt;Machine Learning Specialty&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ちょくちょく「全冠することに意味はあるのか？」ってのを見かける。全員に当てはまるような普遍的な意味はないと思うし、コスパも良いとは思えないけども、個人的にはもともとの「払拭するための一歩目」には十分なってるので満足してる。（まだ全冠とれてないけど）&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;自宅でk8sクラスタ作ったよ&#34;&gt;自宅でk8sクラスタ作ったよ&lt;/h3&gt;
+&lt;figure class=&#34;center&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/k8s.png&#34;
+         alt=&#34;ダッシュボード&#34; width=&#34;50%&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;これもなんとなくだけど、自宅にk8sを作った。写真以外にももともと使ってたWindowsのデスクトップPCもNodeとしてつながっている。&lt;/p&gt;
+&lt;figure class=&#34;center&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/k8s_2.png&#34;
+         alt=&#34;ダッシュボード&#34; width=&#34;50%&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Control Plane などの冗長化とかはやってなくて、シンプルな感じにした。&lt;/p&gt;
+&lt;p&gt;k8s自体の操作は &lt;a href=&#34;https://www.amazon.co.jp/dp/4798183962&#34;&gt;つくって、壊して、直して学ぶ Kubernetes入門&lt;/a&gt; でわりかしいけたけど、自宅k8sクラスターはそこまでやってる人も多くない分、学びが多かった。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2023/09 振り返り</title>
-      <link>http://localhost:1313/posts/2023-09/</link>
+      <link>http://localhost:49836/posts/2023-09/</link>
       <pubDate>Wed, 30 Aug 2023 17:19:09 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/2023-09/</guid>
+      <guid>http://localhost:49836/posts/2023-09/</guid>
       <description>&lt;h2 id=&#34;日々&#34;&gt;日々&lt;/h2&gt;
 &lt;h3 id=&#34;あったかいマーケティング&#34;&gt;あったかいマーケティング&lt;/h3&gt;
 &lt;p&gt;家の近くの工事中な建物の入り口のところに「奥がふぐ屋なのは決まってるんですけど、1Fの手前のスペースが何も決まってません。なにがあるといいですか？」って書かれてた。
