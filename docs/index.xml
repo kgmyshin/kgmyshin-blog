@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>kgmyshin blog</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:61908/</link>
     <description>Recent content on kgmyshin blog</description>
     <image>
       <title>kgmyshin blog</title>
-      <url>http://localhost:1313/profile.jpg</url>
-      <link>http://localhost:1313/profile.jpg</link>
+      <url>http://localhost:61908/profile.jpg</url>
+      <link>http://localhost:61908/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Dec 2025 15:53:20 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Dec 2025 15:53:20 +0900</lastBuildDate><atom:link href="http://localhost:61908/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>kgmyshin の 2025年 </title>
-      <link>http://localhost:1313/posts/2025-12/</link>
+      <link>http://localhost:61908/posts/2025-12/</link>
       <pubDate>Mon, 29 Dec 2025 15:53:20 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/2025-12/</guid>
+      <guid>http://localhost:61908/posts/2025-12/</guid>
       <description>&lt;p&gt;今年もいろいろ挑戦した年になりました。&lt;/p&gt;
 &lt;h2 id=&#34;チャレンジした&#34;&gt;チャレンジした&lt;/h2&gt;
 &lt;h3 id=&#34;転職した&#34;&gt;転職した&lt;/h3&gt;
@@ -67,43 +67,43 @@ DMMには8年くらいいて、わりかしマネジメントに9割寄せてた
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish_1.jpg&#34; width=&#34;200&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish1.jpg&#34; width=&#34;200&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/td&gt;
           &lt;td&gt;ほうれん草のポタージュ&lt;/td&gt;
           &lt;td&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish_2.jpg&#34; width=&#34;200&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish2.jpg&#34; width=&#34;200&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/td&gt;
           &lt;td&gt;えびたるたる&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish_3.jpg&#34; width=&#34;200&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish3.jpg&#34; width=&#34;200&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/td&gt;
           &lt;td&gt;アスパラとヤングコーンの春巻き&lt;/td&gt;
           &lt;td&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish_4.jpg&#34; width=&#34;200&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish4.jpg&#34; width=&#34;200&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/td&gt;
           &lt;td&gt;サーモンのパイ包&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish_5.jpg&#34; width=&#34;200&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish5.jpg&#34; width=&#34;200&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/td&gt;
           &lt;td&gt;アッシ・パルマンティエ&lt;/td&gt;
           &lt;td&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish_6.jpg&#34; width=&#34;200&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish6.jpg&#34; width=&#34;200&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/td&gt;
           &lt;td&gt;ステーキ&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish_7.jpg&#34; width=&#34;200&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish7.jpg&#34; width=&#34;200&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/td&gt;
           &lt;td&gt;ゆずはちみつシャーベット&lt;/td&gt;
@@ -128,10 +128,10 @@ DMMには8年くらいいて、わりかしマネジメントに9割寄せてた
     
     <item>
       <title>kgmyshin の 2024年 </title>
-      <link>http://localhost:1313/posts/2024-12/</link>
+      <link>http://localhost:61908/posts/2024-12/</link>
       <pubDate>Mon, 11 Nov 2024 15:53:20 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/2024-12/</guid>
+      <guid>http://localhost:61908/posts/2024-12/</guid>
       <description>&lt;p&gt;今年はいろいろ挑戦し、進捗があった年でした。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ポジティブよりな話
@@ -225,10 +225,10 @@ DMMには8年くらいいて、わりかしマネジメントに9割寄せてた
     
     <item>
       <title>2023/09 振り返り</title>
-      <link>http://localhost:1313/posts/2023-09/</link>
+      <link>http://localhost:61908/posts/2023-09/</link>
       <pubDate>Wed, 30 Aug 2023 17:19:09 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/2023-09/</guid>
+      <guid>http://localhost:61908/posts/2023-09/</guid>
       <description>&lt;h2 id=&#34;日々&#34;&gt;日々&lt;/h2&gt;
 &lt;h3 id=&#34;あったかいマーケティング&#34;&gt;あったかいマーケティング&lt;/h3&gt;
 &lt;p&gt;家の近くの工事中な建物の入り口のところに「奥がふぐ屋なのは決まってるんですけど、1Fの手前のスペースが何も決まってません。なにがあるといいですか？」って書かれてた。

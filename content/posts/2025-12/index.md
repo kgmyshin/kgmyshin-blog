@@ -50,10 +50,10 @@ DMMには8年くらいいて、わりかしマネジメントに9割寄せてた
 
 |  |  |  |  |
 | -- | -- | -- | -- |
-| {{< figure src="image/dish_1.jpg" width="200" >}} | ほうれん草のポタージュ | {{< figure src="image/dish_2.jpg" width="200" >}} | えびたるたる |
-| {{< figure src="image/dish_3.jpg" width="200" >}} | アスパラとヤングコーンの春巻き | {{< figure src="image/dish_4.jpg" width="200" >}} | サーモンのパイ包 |
-| {{< figure src="image/dish_5.jpg" width="200" >}} | アッシ・パルマンティエ | {{< figure src="image/dish_6.jpg" width="200" >}} | ステーキ |
-| {{< figure src="image/dish_7.jpg" width="200" >}} | ゆずはちみつシャーベット |  |  |
+| {{< figure src="image/dish1.jpg" width="200" >}} | ほうれん草のポタージュ | {{< figure src="image/dish2.jpg" width="200" >}} | えびたるたる |
+| {{< figure src="image/dish3.jpg" width="200" >}} | アスパラとヤングコーンの春巻き | {{< figure src="image/dish4.jpg" width="200" >}} | サーモンのパイ包 |
+| {{< figure src="image/dish5.jpg" width="200" >}} | アッシ・パルマンティエ | {{< figure src="image/dish6.jpg" width="200" >}} | ステーキ |
+| {{< figure src="image/dish7.jpg" width="200" >}} | ゆずはちみつシャーベット |  |  |
 
 アッシ・パルマンティエはやっぱりうまい。ゆずはちみつシャーベットも初めて作ったけど結構簡単に自作できるんだなってことを知った。
 サーモンのパイ包は少し反省点あり。来年も美味いものを作っていきたいし、定期的にフルコース作るのやりたいな。
