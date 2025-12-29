@@ -2,22 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>kgmyshin blog</title>
-    <link>http://localhost:49836/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on kgmyshin blog</description>
     <image>
       <title>kgmyshin blog</title>
-      <url>http://localhost:49836/profile.jpg</url>
-      <link>http://localhost:49836/profile.jpg</link>
+      <url>http://localhost:1313/profile.jpg</url>
+      <link>http://localhost:1313/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Nov 2024 15:53:20 +0900</lastBuildDate><atom:link href="http://localhost:49836/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Dec 2025 15:53:20 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kgmyshin の 2025年 </title>
+      <link>http://localhost:1313/posts/2025-12/</link>
+      <pubDate>Mon, 29 Dec 2025 15:53:20 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/2025-12/</guid>
+      <description>&lt;p&gt;今年もいろいろ挑戦した年になりました。&lt;/p&gt;
+&lt;h2 id=&#34;チャレンジした&#34;&gt;チャレンジした&lt;/h2&gt;
+&lt;h3 id=&#34;転職した&#34;&gt;転職した&lt;/h3&gt;
+&lt;p&gt;合同会社DMM.com から newmo株式会社 へ転職しました。
+DMMには8年くらいいて、わりかしマネジメントに9割寄せてたけど、今は プレイングがほぼほぼを締めていて Androidからフロントエンドからなんかいろいろやらせてもらってます。&lt;/p&gt;
+&lt;p&gt;環境やタスクやもろもろによって変わるからそんなにこの数字に意味ないのですが、一応入社して半年で257個のPRをマージしているらしい。&lt;/p&gt;
+&lt;p&gt;期間的には6月に入社したので半年と少しくらい経っているくらいで、徐々に社内で知っている顔も増えてきて楽しくやれています🌟&lt;/p&gt;
+&lt;p&gt;そういえば入社記事書いてないのを思い出した。。。書く可能性もゼロではないので、ここではこのくらいにしておきます。&lt;/p&gt;
+&lt;h3 id=&#34;aws認定-全冠した&#34;&gt;AWS認定 全冠した&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://kgmyshin.blog/posts/2024-12/#aws%E8%AA%8D%E5%AE%9A%E3%82%928%E5%80%8B%E5%8F%96%E3%81%A3%E3%81%9F&#34;&gt;去年からちょっとずつ取ってた&lt;/a&gt; AWS認定を今年の４月に全て取ることができました！&lt;/p&gt;
+&lt;figure class=&#34;center&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/aws.jpeg&#34;
+         alt=&#34;AWS全巻&#34; width=&#34;70%&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;取ったからなんやねん感はあるけど、まぁやりきれてよかった。&lt;/p&gt;
+&lt;h3 id=&#34;車の免許とった&#34;&gt;車の免許とった&lt;/h3&gt;
+&lt;p&gt;流石に福岡では免許あったほうがいいよなぁと思いつつ数年放置してたのですが、転職に伴って有休消化期間があったので免許を取ることにしました。&lt;/p&gt;
+&lt;p&gt;仮免許までは有休消化期間で取り切って、転職してからは会社に慣れながら仕事終わりとか休日にちょっとずつ通ってました。
+ちなみに、下記がしんどいポイント。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;予約が本当にとれない
+&lt;ul&gt;
+&lt;li&gt;仕事してるので行ける時間が限られるが、そもそも予約が取れないっていう&lt;/li&gt;
+&lt;li&gt;夏休み前など例年は空いてるらしい時も、今年はなぜか常に予約が空いてない状態だったらしい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;基本平日は夜しか行けないが、夜の運転が初心者🔰にはしんどい
+&lt;ul&gt;
+&lt;li&gt;最近気づいたけど、人とくらべて夜目がまじで効かないらしい&lt;/li&gt;
+&lt;li&gt;人生で2回目の車道を走らせた時は、夜 + 雨 で地獄&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;そんなしんどいポイントを乗り越えて、仮免期限の6ヶ月が切れるギリギリになんとか本免許を取ることができたので普通に自分を褒めたい。&lt;/p&gt;
+&lt;h3 id=&#34;料理した-2025&#34;&gt;料理した 2025&lt;/h3&gt;
+&lt;p&gt;いろいろ作ったけど、今年はクリスマスに自作でフルコースつくって振る舞ったのがやっぱりいちばんの思い出です。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish_1.jpg&#34; width=&#34;200&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;ほうれん草のポタージュ&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish_2.jpg&#34; width=&#34;200&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;えびたるたる&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish_3.jpg&#34; width=&#34;200&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;アスパラとヤングコーンの春巻き&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish_4.jpg&#34; width=&#34;200&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;サーモンのパイ包&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish_5.jpg&#34; width=&#34;200&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;アッシ・パルマンティエ&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish_6.jpg&#34; width=&#34;200&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;ステーキ&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;image/dish_7.jpg&#34; width=&#34;200&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/td&gt;
+          &lt;td&gt;ゆずはちみつシャーベット&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;アッシ・パルマンティエはやっぱりうまい。ゆずはちみつシャーベットも初めて作ったけど結構簡単に自作できるんだなってことを知った。
+サーモンのパイ包は少し反省点あり。来年も美味いものを作っていきたいし、定期的にフルコース作るのやりたいな。&lt;/p&gt;
+&lt;h3 id=&#34;個人開発リリースした&#34;&gt;個人開発リリースした&lt;/h3&gt;
+&lt;p&gt;結構数年かけて作ってたものがようやくリリースできた。次は何を作ろうかな。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;その他&#34;&gt;その他&lt;/h2&gt;
+&lt;h3 id=&#34;少しリバウンドした&#34;&gt;少しリバウンドした&lt;/h3&gt;
+&lt;p&gt;忙しくなったり、体調崩して散歩行けなくなったりが続いて徐々に意識が低くなると戻る気がする。
+ちょうど新年だし、今年は毎月 100km 以上 歩く/走る を心がけて生きていきます。&lt;/p&gt;
+&lt;h3 id=&#34;競輪&#34;&gt;競輪&lt;/h3&gt;
+&lt;p&gt;競輪がおもろいってことを知った2025年。&lt;/p&gt;
+&lt;p&gt;推しが競輪番組出て以降ちょくちょく眺めてたのだけど、暇な時にインストールしてたウィンチケットを触り始めて徐々にハマっていきました。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>kgmyshin の 2024年 </title>
-      <link>http://localhost:49836/posts/2024-12/</link>
+      <link>http://localhost:1313/posts/2024-12/</link>
       <pubDate>Mon, 11 Nov 2024 15:53:20 +0900</pubDate>
       
-      <guid>http://localhost:49836/posts/2024-12/</guid>
+      <guid>http://localhost:1313/posts/2024-12/</guid>
       <description>&lt;p&gt;今年はいろいろ挑戦し、進捗があった年でした。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ポジティブよりな話
@@ -80,7 +194,7 @@
          alt=&#34;ダッシュボード&#34; width=&#34;50%&#34;/&gt; 
 &lt;/figure&gt;
 
-&lt;p&gt;なんとなく思い立って全体的にAWS認定をとってみてる。&lt;/p&gt;
+&lt;p&gt;なんとなく思い立ってAWS認定をとってみてる。&lt;/p&gt;
 &lt;p&gt;Androidを軸にしながら、バックエンドやフロントエンド、iOSはプロダクションでしっかりコードを書いてきたのだけど、インフラに関しては未経験ではないが他の領域に比べるとどうしても劣るので、払拭するための一歩目として。&lt;/p&gt;
 &lt;p&gt;今年は全部で12個あるうちの8個を取得できた。急いでいないので月にひとつとくらいのペースでやってる。
 個人的には AWS Certified Advanced Networking が 自分がやってることから離れすぎて馴染みがない故に難しかった。&lt;/p&gt;
@@ -99,22 +213,22 @@
          alt=&#34;ダッシュボード&#34; width=&#34;50%&#34;/&gt; 
 &lt;/figure&gt;
 
-&lt;p&gt;これもなんとなくだけど、自宅にk8sを作った。写真以外にももともと使ってたWindowsのデスクトップPCもNodeとしてつながっている。&lt;/p&gt;
+&lt;p&gt;これもなんとなくだけど、自宅にk8sクラスタを作った。写真以外にももともと使ってたWindowsのデスクトップPCもNodeとしてつながっている。&lt;/p&gt;
 &lt;figure class=&#34;center&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;image/k8s_2.png&#34;
          alt=&#34;ダッシュボード&#34; width=&#34;50%&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Control Plane などの冗長化とかはやってなくて、シンプルな感じにした。&lt;/p&gt;
-&lt;p&gt;k8s自体の操作は &lt;a href=&#34;https://www.amazon.co.jp/dp/4798183962&#34;&gt;つくって、壊して、直して学ぶ Kubernetes入門&lt;/a&gt; でわりかしいけたけど、自宅k8sクラスターはそこまでやってる人も多くない分、学びが多かった。&lt;/p&gt;</description>
+&lt;p&gt;k8s自体の操作は &lt;a href=&#34;https://www.amazon.co.jp/dp/4798183962&#34;&gt;つくって、壊して、直して学ぶ Kubernetes入門&lt;/a&gt; で学んだ。自宅k8sクラスターの構築に関してはそこまでやってる人が多くない分、学びが多かった。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2023/09 振り返り</title>
-      <link>http://localhost:49836/posts/2023-09/</link>
+      <link>http://localhost:1313/posts/2023-09/</link>
       <pubDate>Wed, 30 Aug 2023 17:19:09 +0900</pubDate>
       
-      <guid>http://localhost:49836/posts/2023-09/</guid>
+      <guid>http://localhost:1313/posts/2023-09/</guid>
       <description>&lt;h2 id=&#34;日々&#34;&gt;日々&lt;/h2&gt;
 &lt;h3 id=&#34;あったかいマーケティング&#34;&gt;あったかいマーケティング&lt;/h3&gt;
 &lt;p&gt;家の近くの工事中な建物の入り口のところに「奥がふぐ屋なのは決まってるんですけど、1Fの手前のスペースが何も決まってません。なにがあるといいですか？」って書かれてた。

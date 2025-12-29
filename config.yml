@@ -1,6 +1,6 @@
 baseURL: "https://kgmyshin.blog"
 title: kgmyshin blog
-paginate: 5
+# paginate: 5
 theme: PaperMod
 publishDir: "docs"
 
